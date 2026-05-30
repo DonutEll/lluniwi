@@ -1,6 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1780154567
-icon.svg::CompressedTexture2D::6654686776175135175::1780154496::1780154500::1::::<><><>0<>0<>ddeed1f794d1a3e470360b11f17a13c8<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-README.md::TextFile::-1::1780154567::0::1::::<><><>0<>0<><>::
-::res://scenes/::0
-lluniwi.tscn::PackedScene::5991960083245164087::1780155355::0::1::::<><><>0<>0<><>::
+::res://::1780155445
+escenaChulisima.tscn::PackedScene::5100507967598391793::1780155393::0::1::::<><><>0<>0<><>::
+lluniwi.tscn::PackedScene::5991960083245164087::1780154931::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1780154931::0::1::::<><><>0<>0<><>::
+::res://01_images/::1780155445
+Captura de pantalla 2026-05-21 224057.png::CompressedTexture2D::4398940810211677663::1780155441::1780155446::1::::<><><>0<>0<>d8c28cb76138dde5ff4162d69853e82c<>res://.godot/imported/Captura de pantalla 2026-05-21 224057.png-1d4e3a49a2307de174ce25a0520c8633.ctex::
+Captura de pantalla 2026-05-29 114923.png::CompressedTexture2D::6311370789597630696::1780155429::1780155429::1::::<><><>0<>0<>39d32b392f4c2eaa949a579d65eb3abd<>res://.godot/imported/Captura de pantalla 2026-05-29 114923.png-163e7adad0e2f0b9ca89c6283a47dbac.ctex::
+icon.svg::CompressedTexture2D::6654686776175135175::1780154931::1780155409::1::::<><><>0<>0<>681b2e336e212cf7410785718366976d<>res://.godot/imported/icon.svg-7e40ef697bd1596208a662f8573c72d6.ctex::
