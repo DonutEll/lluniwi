@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://crmsybpht8ywt"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_vhks8"]
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+
+[node name="Lluniwi" type="Node" unique_id=1016433973]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1895910868]
+offset_right = 1160.0
+offset_bottom = 648.0
+color = Color(1, 0.8235294, 1, 1)
+
+[node name="Label" type="Label" parent="." unique_id=1469191439]
+offset_left = 507.0
+offset_top = 203.0
+offset_right = 547.0
+offset_bottom = 226.0
+text = "HOLA LLUNA"
+label_settings = SubResource("LabelSettings_vhks8")
